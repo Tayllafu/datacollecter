@@ -1,16 +1,17 @@
 # Walmart Delivery 
 
 # Purpose/Problem Statement 
-What does your program do? What problem/need is it addressing?
+ It help people get their need while being in the house or if they are to busy
 # Target Audience  
-Who is this for? (ex: students, gamers, young adults, etc.)
+ This is for busy people, people that are sick
 # Solution + Limitations 
-How does your project solve the problem? Are there actions your program would do to solve the problem but doesn’t do?
+It tell you to enter a email or use a email that's already giving
 # Key Features / Key Components 
- List major parts of your program (what the user can do or see).
+ They can see on when their delivery been deliverd 
 # Technical Challenges + Future Plans
- What was hard to figure out? What do you wish you could add if you had more time or more experience?
+The hardest thing was finding out how to track it's order
 # Project Timeline
- Briefly explain how you broke this project up across days, weeks, or months.
-Tools and Resources Used - Include websites, docs, videos, AI, etc.
+I spent 1 week on working on it, Day 1 i went on had and idea, day 2 i got
+some stuff done but didn;t finish day 3 finding out how to make it 
+run with out a error, Day 4 I end up finishing it.
 
